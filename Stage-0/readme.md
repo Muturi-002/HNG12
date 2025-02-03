@@ -19,4 +19,5 @@ Cloud platform used: Oracle Cloud Infrastructure (OCI)
 5. Run the command `sudo nano /var/www/html/index.html` and write down the contents of the html script (the same ones as in the index.html of this repository) and save. Confirm whether the index.html has been appended.
 6. Reboot the instance. After successful reboot, copy its public IP address and paste it as a URL.
 
-
+## Output
+![Stage 0 Output](../Stage-0/Screenshot%20from%202025-01-30%2013-59-29.png)
